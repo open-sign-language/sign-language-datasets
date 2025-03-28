@@ -1,0 +1,8 @@
+#Folders
+data/
+
+
+#Files
+*.csv
+*.json
+debug.ipynb
